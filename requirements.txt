@@ -9,6 +9,7 @@ Pillow
 tifffile
 
 tqdm
+tensorflow
 
 py-cpuinfo
 pyUSID
